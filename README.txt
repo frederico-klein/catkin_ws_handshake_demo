@@ -1,3 +1,6 @@
+clone recursively with:
+$: git clone --recursive https://github.com/frederico-klein/catkin_ws_handshake_demo.git
+
 make sure to "source devel/setup.bash" from the catkin-workspace
 
 make separate windows (at least 4)
