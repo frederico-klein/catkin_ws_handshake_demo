@@ -13,3 +13,6 @@
 [submodule "src/gummi_interface"]
 	path = src/gummi_interface
 	url = https://github.com/GummiArmCE/gummi_interface.git
+[submodule "src/dynamixel_motor"]
+	path = src/dynamixel_motor
+	url = https://github.com/arebgun/dynamixel_motor.git

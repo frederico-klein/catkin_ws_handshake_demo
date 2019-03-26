@@ -14,6 +14,10 @@ Install all the dependencies from the packages with:
     
 Run catkin_make.
 
+If you've never ran any serial comms program before in your pc, you need to add yourself to dialout group, log off and on again:
+
+    sudo usermod -a -G dialout $USER
+
 ## Usage
 
 make sure to "source devel/setup.bash" from the catkin-workspace
