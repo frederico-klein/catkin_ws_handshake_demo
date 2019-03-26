@@ -4,9 +4,6 @@
 [submodule "src/gummi_ee_handshake"]
 	path = src/gummi_ee_handshake
 	url = https://github.com/GummiArmCE/gummi_ee_handshake.git
-[submodule "src/gummi_moveit"]
-	path = src/gummi_moveit
-	url = https://github.com/GummiArmCE/gummi_moveit.git
 [submodule "src/gummi_base_template"]
 	path = src/gummi_base_template
 	url = https://github.com/GummiArmCE/gummi_base_template.git
