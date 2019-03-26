@@ -5,14 +5,20 @@
 Clone recursively with:
 
     git clone --recursive https://github.com/frederico-klein/catkin_ws_handshake_demo.git
-
+    
 See https://www.vogella.com/tutorials/GitSubmodules/article.html for a nice little tutorial about submodules.
+    
+Install all the dependencies from the packages with:
+
+    rosdep install --from-paths src --ignore-src -r -y
+    
+Run catkin_make.
 
 ## Usage
 
 make sure to "source devel/setup.bash" from the catkin-workspace
 
-make separate windows (at least 4)
+open separate terminal shells ( at least 4)
 
 run the following commands in separate windows:
 
